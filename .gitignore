@@ -1,5 +1,6 @@
 # Node packages
 /server/node_modules
+/server/arpGen.sh
 
 # IDE settings
 .vscode/*
@@ -10,3 +11,6 @@ settings.js
 
 # Provate build and run script
 **/docker-reset.ps1
+arp-table.json
+devices-cache.json
+test.js
